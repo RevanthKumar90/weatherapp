@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/8f13a79a-d497-4830-b04a-f636b5bee951)# 🌦️ WeatherSphere - Real-Time Weather App
+![image](https://github.com/user-attachments/assets/8f13a79a-d497-4830-b04a-f636b5bee951)
+![image](https://github.com/user-attachments/assets/b8bc4e5e-b469-4e9c-b1f3-ff4e3235bd88)
+
+# 🌦️ WeatherSphere - Real-Time Weather App
 
 A clean, intuitive weather application that displays current conditions for any city worldwide.
 
